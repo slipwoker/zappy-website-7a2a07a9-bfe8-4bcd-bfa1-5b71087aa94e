@@ -7,33 +7,33 @@
 ## Pages
 
 ### Home
-https://supporthive-7a2a07a9.zappy5.app
+https://example.com
 Experience reliable quality technology services that turn your tech frustrations into seamless solutions. From instant troubleshooting to full-scale IT support, SupportHive keeps your digital world running smoothly. Get expert help now.
 
 ### Services
-https://supporthive-7a2a07a9.zappy5.app/services
+https://example.com/services
 Discover comprehensive information technology services tailored to your needs. Our technology consulting services cover remote fixes, system optimization, and strategic IT planning designed for performance. Explore all plans today.
 
 ### About
-https://supporthive-7a2a07a9.zappy5.app/about
+https://example.com/about
 Learn why businesses and individuals choose SupportHive for honest, fast, and transparent tech assistance. Our mission is to deliver quality technology services with a human touch and real accountability. Read our story.
 
 ### Contact
-https://supporthive-7a2a07a9.zappy5.app/contact
+https://example.com/contact
 Ready to fix what&#39;s broken and future-proof your setup? Reach out to our friendly team for immediate assistance and personalized information technology services. Let&#39;s solve it together—contact SupportHive now.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://supporthive-7a2a07a9.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://supporthive-7a2a07a9.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://supporthive-7a2a07a9.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -43,8 +43,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://supporthive-7a2a07a9.zappy5.app/contact
-- Endpoint: https://supporthive-7a2a07a9.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -73,6 +73,6 @@ Technology Services
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://supporthive-7a2a07a9.zappy5.app/sitemap.xml
-- Robots: https://supporthive-7a2a07a9.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://supporthive-7a2a07a9.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
