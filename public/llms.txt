@@ -1,0 +1,78 @@
+# SupportHive — Generative Engine Optimization Map
+
+> A tech support business focused on providing technical assistance and solutions. The user envisions a modern, professional online presence to attract clients seeking reliable tech help.
+
+---
+
+## Pages
+
+### Home
+https://supporthive-7a2a07a9.zappy5.app
+Experience reliable quality technology services that turn your tech frustrations into seamless solutions. From instant troubleshooting to full-scale IT support, SupportHive keeps your digital world running smoothly. Get expert help now.
+
+### Services
+https://supporthive-7a2a07a9.zappy5.app/services
+Discover comprehensive information technology services tailored to your needs. Our technology consulting services cover remote fixes, system optimization, and strategic IT planning designed for performance. Explore all plans today.
+
+### About
+https://supporthive-7a2a07a9.zappy5.app/about
+Learn why businesses and individuals choose SupportHive for honest, fast, and transparent tech assistance. Our mission is to deliver quality technology services with a human touch and real accountability. Read our story.
+
+### Contact
+https://supporthive-7a2a07a9.zappy5.app/contact
+Ready to fix what&#39;s broken and future-proof your setup? Reach out to our friendly team for immediate assistance and personalized information technology services. Let&#39;s solve it together—contact SupportHive now.
+
+## Legal & Policy
+
+### Privacy Policy
+https://supporthive-7a2a07a9.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://supporthive-7a2a07a9.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://supporthive-7a2a07a9.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://supporthive-7a2a07a9.zappy5.app/contact
+- Endpoint: https://supporthive-7a2a07a9.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About SupportHive
+A tech support business focused on providing technical assistance and solutions. The user envisions a modern, professional online presence to attract clients seeking reliable tech help.
+
+## Target Audience
+- Small Business Owners
+- Remote Work Teams
+- Startup Tech Leaders
+
+## Industry
+Technology Services
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://supporthive-7a2a07a9.zappy5.app/sitemap.xml
+- Robots: https://supporthive-7a2a07a9.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://supporthive-7a2a07a9.zappy5.app/llms-full.txt
