@@ -40,7 +40,10 @@ Information about WCAG compliance and accessibility features.
 
 ## How to Contact Us
 
-- (No contact details configured yet.)
+- Email: ogborum734@gmail.com
+- Phone: 09126506021
+- Phone (tel): tel:09126506021
+- Address: No 5 unsifrun , Warri Udu road , Delta states, 320242, Nigeria 
 
 ### Contact form
 - URL: https://example.com/contact
